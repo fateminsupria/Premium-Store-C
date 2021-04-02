@@ -1,0 +1,12 @@
+@media only screen and (max-width: 800px) {
+    .addProduct {
+      width: 100%;
+    }
+  }
+  .addProduct {
+    width: 100%;
+  }
+  .addProduct-from {
+    background: #ffffff;
+    border-radius: 20px;
+  }
